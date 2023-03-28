@@ -8,10 +8,9 @@
 ### ·吹笛操控数位笔画出来的图
 
 #### 2023.03.19-2022.08.22
-##### #
+##### .
 <img src="https://github.com/Chainseen/hebi/blob/main/images/%E9%92%89.png" width="1000px">
-![](https://github.com/Chainseen/hebi/blob/main/images/%E9%92%89.png)
-.
+##### .
 ![](https://github.com/Chainseen/hebi/blob/main/images/%E6%8F%92%E7%94%BB217.png)
 ![](https://github.com/Chainseen/hebi/blob/main/images/%E6%8F%92%E7%94%BB202.png)
 ![](https://github.com/Chainseen/hebi/blob/main/images/%E6%8F%92%E7%94%BB21313.png)
